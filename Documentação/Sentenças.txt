@@ -1,0 +1,6 @@
+__Sentenças testadas__
+
+Arquivo teste: 0101010110 (Segundo e penúltimo símbolos são 1)
+Arquivo teste2: 1011110 (00 não aparece nos 4 últimols símbolos)
+
+Obs.: As sentenças são inseridas manualmente ao rodar o programa de conversão.
